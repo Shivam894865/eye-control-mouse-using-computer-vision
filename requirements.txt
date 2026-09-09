@@ -1,7 +1,4 @@
- import cv2                                                              
-
-      2 import mediapipe as mp                                                  
-
-      3 import numpy as np                                                      
-
-      4 import pyautogui  
+import cv2
+import mediapipe as mp
+import numpy as np
+import pyautogui

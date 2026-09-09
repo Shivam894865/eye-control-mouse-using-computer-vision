@@ -1,4 +1,7 @@
-streamlit
-opencv-python-headless==4.11.0.86
-numpy<2
-mediapipe
+ import cv2                                                              
+
+      2 import mediapipe as mp                                                  
+
+      3 import numpy as np                                                      
+
+      4 import pyautogui  

@@ -1,5 +1,5 @@
 streamlit
-opencv-python-headless
+opencv
 numpy<2
 mediapipe
 pyautogui
